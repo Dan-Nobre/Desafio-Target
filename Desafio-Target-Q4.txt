@@ -1,0 +1,12 @@
+Podemos fazer a seguinte sequencia:
+
+-> ligar o interruptor 1 e deixar ligada por um tempo ate que a lampada consiga esquentar, apos isso desliga-se
+-> Ligar o interruptor 2 e manter aceso.
+-> Deixar o interruptor 3 desligado.
+
+Quando visitarmos a primeira sala:
+Se a lampada estiver acesa, ela é a correspondente a ao interruptor 2
+Se ela estiver desligada mas quente, ela pertence ao interruptor 1
+Se ela estiver fria e apagada ela é o interruptor 3.
+
+Quando identificarmos o interruptor pertencente a sala 1, iremos descobri o do 2 na segunda ida usando a mesma lógica :>

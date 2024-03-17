@@ -1,0 +1,16 @@
+//Primeira-Questão-Desafio-Target
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+
+    int i = 13;
+    int K;
+    int soma = 0;
+
+    for (K = 0; K < i; K++){
+      soma += K;
+    }
+    System.out.println(soma);
+  }
+}

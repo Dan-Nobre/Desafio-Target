@@ -1,0 +1,11 @@
+//Quinta-Questão-Desafio-Target
+
+public class Main {
+  public static void main(String[] args) {
+
+    String palavra = "Daniel";
+
+    for (int i = palavra.length() - 1; i >= 0; i--)
+      System.out.println(palavra.charAt(i));
+  }
+}
